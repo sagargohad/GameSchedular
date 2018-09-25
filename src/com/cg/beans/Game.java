@@ -15,7 +15,7 @@ public class Game {
 	}
 
 	public byte getNoOfPlayers() {
-		return  noOfPlayers;
+		return noOfPlayers;
 	}
 
 	public void setNoOfPlayers(byte noOfPlayers) {
