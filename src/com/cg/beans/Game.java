@@ -5,6 +5,7 @@ public class Game {
 	private String name;
 	
 	private byte noOfPlayers;
+	
 
 	public String getName() {
 		return name;
